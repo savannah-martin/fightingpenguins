@@ -1,0 +1,7 @@
+Libraries
+Conda or pip install the following library packages to run the files in your desired environment as follows:
+- sklearn
+- pandas
+- matplotlib
+- plot_helpers
+- numpy
